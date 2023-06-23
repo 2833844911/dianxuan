@@ -41,3 +41,5 @@ val
 
 ### 测试模型
     运行 text.py 文件
+
+ ![image](test.jpg)
